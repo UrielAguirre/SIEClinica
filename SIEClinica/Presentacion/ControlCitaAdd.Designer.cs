@@ -95,7 +95,7 @@
             this.btnVenta.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVenta.Location = new System.Drawing.Point(694, 6);
             this.btnVenta.Name = "btnVenta";
-            this.btnVenta.Size = new System.Drawing.Size(116, 98);
+            this.btnVenta.Size = new System.Drawing.Size(79, 72);
             this.btnVenta.TabIndex = 42;
             this.btnVenta.TabStop = false;
             this.btnVenta.UseVisualStyleBackColor = true;
@@ -170,9 +170,9 @@
             this.btnAgregar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnAgregar.FlatAppearance.BorderSize = 0;
             this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAgregar.Location = new System.Drawing.Point(572, 3);
+            this.btnAgregar.Location = new System.Drawing.Point(593, 13);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(116, 98);
+            this.btnAgregar.Size = new System.Drawing.Size(91, 65);
             this.btnAgregar.TabIndex = 4;
             this.btnAgregar.TabStop = false;
             this.btnAgregar.UseVisualStyleBackColor = true;
@@ -206,7 +206,6 @@
             this.txtBuscador.Name = "txtBuscador";
             this.txtBuscador.Size = new System.Drawing.Size(333, 19);
             this.txtBuscador.TabIndex = 0;
-            this.txtBuscador.Text = "Buscar";
             this.txtBuscador.TextChanged += new System.EventHandler(this.txtBuscador_TextChanged);
             // 
             // PanelPaginado
